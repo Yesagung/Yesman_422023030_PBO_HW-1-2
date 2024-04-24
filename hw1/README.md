@@ -36,7 +36,8 @@
 - Professor (Dosen)
 - Super Admin
 - Admin (administrasi)
-![Usecase PBO (4)](https://hackmd.io/_uploads/ryLsM1sg0.jpg)
+![Usecase PBO (6)](https://github.com/Yesagung/Yesman_422023030_PBO_HW-1-2/assets/151461069/26437d0a-7329-47cd-b4ec-bedd86169731)
+
 
 
 
